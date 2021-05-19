@@ -1,3 +1,3 @@
-mensagem = 'Olá mundo'
+mensagem = 'Olá universo!!!'
 
 print(mensagem)
