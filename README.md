@@ -7,5 +7,6 @@ Contribuições necessárias:
 Layout, comentários, melhorias em geral
 
 Coloque o seu nome aqui, se você contribuir com algo:
+- Júlia Corrêa Santos 
 - Gabriel Leopoldino da Silva
 -
