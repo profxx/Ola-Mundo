@@ -4,7 +4,7 @@
 # Aprendendo
 Teste de Commit, Fork e Pull request
 
-"Insista, percista e não desista."
+"Insista, persista e não desista."
 
   Teste de repositório para os alunos de Desenvolvimento de Sistemas testarem o fork e pull request.
 
