@@ -13,7 +13,7 @@ Coloque o seu nome aqui, se você contribuir com algo:
 - Rafaela
 - Júlia Corrêa Santos 
 - Gabriel Leopoldino da Silva
+- Olívia Roquini
 - Ana Beatriz Lopes de Moura
 - Thayssa Porto 
 - Max
-
