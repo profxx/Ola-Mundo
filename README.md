@@ -1,3 +1,6 @@
+# Ola-Mundo
+"Insista, persista e não desista."
+
 # Aprendendo
 Teste de Commit, Fork e Pull request
 
@@ -19,8 +22,8 @@ Coloque o seu nome aqui, se você contribuir com algo:
 - Olívia Roquini
 - Ana Beatriz Lopes de Moura
 - Thayssa Porto 
+- Emili
 - Ana Clara Alves
 - Max
 - Emili
 - Mariane
-
