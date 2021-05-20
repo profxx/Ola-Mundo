@@ -23,6 +23,7 @@ Coloque o seu nome aqui, se você contribuir com algo:
 - Olívia Roquini
 - Ana Beatriz Lopes de Moura
 - Thayssa Porto 
+- Kauã Alves
 - Emili
 - Ana Clara Alves
 - Max
