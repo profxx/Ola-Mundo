@@ -29,3 +29,4 @@ Coloque o seu nome aqui, se você contribuir com algo:
 - Théo
 - Emili
 - Mariane
+- Yasmim
