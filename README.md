@@ -1,6 +1,8 @@
 # Aprendendo
 Teste de Commit, Fork e Pull request
 
+"Insista, percista e não desista."
+
   Teste de repositório para os alunos de Desenvolvimento de Sistemas testarem o fork e pull request.
 
   <br>
@@ -16,4 +18,5 @@ Coloque o seu nome aqui, se você contribuir com algo:
 - Ana Beatriz Lopes de Moura
 - Thayssa Porto 
 - Max
+- Emili
 
