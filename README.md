@@ -27,6 +27,7 @@ Coloque o seu nome aqui, se você contribuir com algo:
 - Emili
 - Ana Clara Alves
 - Max
+- Milena (Lena)
 - Théo
 - Emili
 - Mariane
