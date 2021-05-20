@@ -25,5 +25,6 @@ Coloque o seu nome aqui, se você contribuir com algo:
 - Emili
 - Ana Clara Alves
 - Max
+- Théo
 - Emili
 - Mariane
