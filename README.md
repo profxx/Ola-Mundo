@@ -12,3 +12,4 @@ Coloque o seu nome aqui, se você contribuir com algo:
 - Gabriel Leopoldino da Silva
 - Ana Beatriz Lopes de Moura
 - Thayssa Porto 
+- Kauã Alves
