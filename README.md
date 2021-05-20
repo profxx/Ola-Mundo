@@ -15,6 +15,7 @@ Teste de Commit, Fork e Pull request
   Layout, comentários, melhorias em geral
 
 Coloque o seu nome aqui, se você contribuir com algo:
+- Isabel
 - Rafaela
 - Júlia Corrêa Santos 
 - Gabriel Leopoldino da Silva
