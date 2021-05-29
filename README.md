@@ -23,10 +23,10 @@ Coloque o seu nome aqui, se você contribuir com algo:
 - Isabel
 - Júlia Corrêa Santos 
 - Kauã Alves
+- Maria Luz de Oliveira
+- Mariane
 - Max
 - Milena (Lena)
-- Mariane
-- Maria Luz de Oliveira
 - Olívia Roquini
 - Rafaela
 - Thayssa Porto 
