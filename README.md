@@ -15,21 +15,20 @@ Teste de Commit, Fork e Pull request
   Layout, comentários, melhorias em geral
 
 Coloque o seu nome aqui, se você contribuir com algo:
-- Isabel
-- Rafaela
-- Júlia Corrêa Santos 
-- Gabriel Leopoldino da Silva
 - Anna Gabriela Chagas
-- Olívia Roquini
 - Ana Beatriz Lopes de Moura
-- Thayssa Porto 
-- Kauã Alves
-- Emili
 - Ana Clara Alves
+- Emili
+- Gabriel Leopoldino da Silva
+- Isabel
+- Júlia Corrêa Santos 
+- Kauã Alves
 - Max
 - Milena (Lena)
-- Théo
-- Emili
 - Mariane
+- Maria Luz de Oliveira
+- Olívia Roquini
+- Rafaela
+- Thayssa Porto 
+- Théo 
 - Yasmim 
-- Maria Luz de Oliveira 
