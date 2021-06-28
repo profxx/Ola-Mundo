@@ -4,7 +4,7 @@
 # Aprendendo
 Teste de Commit, Fork e Pull request
 
-"Insista, persista e não desista."
+Tá aprendendo a usar o GitHub? Faça uma edição aqui e manda um pull request. :-)
 
   Teste de repositório para os alunos de Desenvolvimento de Sistemas testarem o fork e pull request.
 
